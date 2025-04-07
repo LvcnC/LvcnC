@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucia</h1>
+<h1 align="center">Hi, I'm Lucia</h1>
 <h3 align="center">A Java developer from Italy</h3>
 
 - 🔭 I’m currently working on **a web app about dating**
