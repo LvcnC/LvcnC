@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lucia</h1>
-<h3 align="center">A Java developer from Italy</h3>
+<h3 align="center">A web developer from Italy</h3>
 
 - 💬 Ask me about **references in Java**
 
